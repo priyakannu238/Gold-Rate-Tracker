@@ -1,5 +1,12 @@
 # Indian Gold Rate Tracker
 
+![2nd SS](https://github.com/user-attachments/assets/cd672ca0-d68a-4e02-9243-6bdf4bb47c0d)
+
+![1st SS](https://github.com/user-attachments/assets/c01f590b-1a24-4fac-8595-4ad4214d516b)
+
+![3rd SS](https://github.com/user-attachments/assets/1e91c84c-a6e3-43c4-aefe-20a06b24f4ce)
+
+
 A Streamlit application that tracks and visualizes gold rates in India across different purities (24K, 22K, 18K, and 14K).
 
 ## Features
